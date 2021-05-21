@@ -1,3 +1,6 @@
+# Jonathan Bean, PhD
+# 2021-05-20
+
 #libraries
 libs <- c("WGCNA", "limma", "gplots",
           "readr", "magrittr", "purrr", 
